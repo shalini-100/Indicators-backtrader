@@ -6,9 +6,9 @@
 
 3.For Exiting the position
 
- Exit long - MACD<0 or Value >Upper Bollinger Band 
+    Exit long - MACD<0 or Value >Upper Bollinger Band 
  
- Exit Short- MACD>0 or Value <lower Bollinger Band 
+    Exit Short- MACD>0 or Value <lower Bollinger Band 
 
 
 ## RSI -
