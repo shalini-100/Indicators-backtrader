@@ -9,9 +9,12 @@
 ###### Exit Short- MACD>0 or Value <lower Bollinger Band 
 
 
+## RSI -
+Uses RSI for strategy with long and short position 
+
+
 ## Oscillator -
 Uses Crossover strategy between Aroon Oscillator and EXponential Moving Average of Aroon Oscillator.
 
 
-## RSI -
-Uses RSI for strategy with long and short position 
+
